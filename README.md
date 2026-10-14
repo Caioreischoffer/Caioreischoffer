@@ -1,4 +1,4 @@
-# Hi, I'm Caio 👋
+# Hi, I'm Caio Reischoffer 👋
 
 **Software Engineering student** building a career in **Java backend development**.
 Based in Araruama, Rio de Janeiro, Brazil · Looking for a junior or trainee opportunity, preferably remote.
